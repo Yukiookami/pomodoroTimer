@@ -1,0 +1,26 @@
+{
+  "voiceList": [{
+      "musicUrl": "voice/otukare/02_08_good_job.wav",
+      "count": 0
+    },
+    {
+      "musicUrl": "voice/otukare/03_really.wav",
+      "count": 0
+    }, {
+      "musicUrl": "voice/otukare/05-03_souiutokosuki.wav",
+      "count": 0
+    }, {
+      "musicUrl": "voice/otukare/eraierai.wav",
+      "count": 0
+    }, {
+      "musicUrl": "voice/otukare/otsunakiri.wav",
+      "count": 0
+    }, {
+      "musicUrl": "voice/otukare/otsupeko.mp3",
+      "count": 0
+    }, {
+      "musicUrl": "voice/otukare/yoshiyoshi.wav",
+      "count": 0
+    }
+  ]
+}

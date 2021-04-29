@@ -1,0 +1,48 @@
+{
+  "bgYList": [{
+      "musicUrl": "img/ysbg-1.jpg",
+      "count": 0
+    },
+    {
+      "musicUrl": "img/ysbg-2.png",
+      "count": 0
+    },
+    {
+      "musicUrl": "img/ysbg-3.jpg",
+      "count": 0
+    },
+    {
+      "musicUrl": "img/ysbg-4.jpg",
+      "count": 0
+    },
+    {
+      "musicUrl": "img/ysbg-5.jpg",
+      "count": 0
+    },
+    {
+      "musicUrl": "img/ysbg-6.jpg",
+      "count": 0
+    }
+  ],
+  "bgSList": [{
+      "musicUrl": "img/bg-1.png",
+      "count": 0
+    },
+    {
+      "musicUrl": "img/bg-2.png",
+      "count": 0
+    },
+    {
+      "musicUrl": "img/bg-3.png",
+      "count": 0
+    },
+    {
+      "musicUrl": "img/bg-4.png",
+      "count": 0
+    },
+    {
+      "musicUrl": "img/bg-5.png",
+      "count": 0
+    }
+  ]
+}

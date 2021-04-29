@@ -1,0 +1,29 @@
+{
+  "voiceList": [{
+      "musicUrl": "voice/end/01_Naruhodozamurai.wav",
+      "count": 0
+    },
+    {
+      "musicUrl": "voice/end/02_07_good_night.wav",
+      "count": 0
+    }, {
+      "musicUrl": "voice/end/baibai.mp3",
+      "count": 0
+    }, {
+      "musicUrl": "voice/end/ganbareteerai.wav",
+      "count": 0
+    }, {
+      "musicUrl": "voice/end/have_a_good_day.wav",
+      "count": 0
+    }, {
+      "musicUrl": "voice/end/kanpai.wav",
+      "count": 0
+    }, {
+      "musicUrl": "voice/end/oyasumipeko.mp3",
+      "count": 0
+    }, {
+      "musicUrl": "voice/end/wo_ai_ni.wav",
+      "count": 0
+    }
+  ]
+}

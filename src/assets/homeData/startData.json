@@ -1,0 +1,35 @@
+{
+  "voiceList": [{
+      "musicUrl": "voice/start/02_01_yubiyubi.wav",
+      "count": 0
+    },
+    {
+      "musicUrl": "voice/start/02_03_good_morning.wav",
+      "count": 0
+    }, {
+      "musicUrl": "voice/start/02_04_welcome_back.wav",
+      "count": 0
+    }, {
+      "musicUrl": "voice/start/02_05_hello.wav",
+      "count": 0
+    }, {
+      "musicUrl": "voice/start/02_10_see.wav",
+      "count": 0
+    }, {
+      "musicUrl": "voice/start/04_good_morning.wav",
+      "count": 0
+    }, {
+      "musicUrl": "voice/start/ganbaruzoi.wav",
+      "count": 0
+    }, {
+      "musicUrl": "voice/start/konnakiri.wav",
+      "count": 0
+    }, {
+      "musicUrl": "voice/start/konpeko.mp3",
+      "count": 0
+    }, {
+      "musicUrl": "voice/start/oahanakiri.wav",
+      "count": 0
+    }
+  ]
+}
